@@ -1,0 +1,71 @@
+[
+  {
+    "countryName": "Poland",
+    "nameInRussian": "Полша",
+    "countryCode": 616,
+    "currencyCode": "PLN",
+    "cities": [
+      {
+        "name": "Augustów",
+        "nameInRussian": "Андрыхув",
+        "population": 22257
+      },
+      {
+        "name": "Alwernia",
+        "nameInRussian": "Альверня",
+        "population": 3424
+      },
+      {
+        "name": "Gdansk",
+        "nameInRussian": "Гданьск",
+        "population": 582205
+      }
+    ]
+  },
+  {
+    "countryName": "Czech",
+    "nameInRussian": "Чехия",
+    "countryCode": 203,
+    "currencyCode": "CZK",
+    "cities": [
+      {
+        "name": "Praha",
+        "nameInRussian": "Прага",
+        "population": 1309000
+      },
+      {
+        "name": "Brno",
+        "nameInRussian": "Брно",
+        "population": 379526
+      },
+      {
+        "name": "Olomouc",
+        "nameInRussian": "Оломоуц",
+        "population": 100408
+      }
+    ]
+  },
+  {
+    "countryName": "Finland ",
+    "nameInRussian": "Финляндия",
+    "countryCode": 246,
+    "currencyCode": "FIM",
+    "cities": [
+      {
+        "name": "Rovaniemi",
+        "nameInRussian": "Рованиеми",
+        "population": 63032
+      },
+      {
+        "name": "Lappeenranta",
+        "nameInRussian": "Лаппеэнранта",
+        "population": 72288
+      },
+      {
+        "name": "Turku",
+        "nameInRussian": "Турку",
+        "population": 186756
+      }
+    ]
+  }
+]

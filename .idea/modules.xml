@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1ProgamJavaCourse.iml" filepath="$PROJECT_DIR$/.idea/1ProgamJavaCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course_work1/course_work1.iml" filepath="$PROJECT_DIR$/course_work1/course_work1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course_work2/course_work2.iml" filepath="$PROJECT_DIR$/course_work2/course_work2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course_work3/course_work3.iml" filepath="$PROJECT_DIR$/course_work3/course_work3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lection10/lection10.iml" filepath="$PROJECT_DIR$/lection10/lection10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lection11/lection11.iml" filepath="$PROJECT_DIR$/lection11/lection11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lection12/lection12.iml" filepath="$PROJECT_DIR$/lection12/lection12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lection13/lection13.iml" filepath="$PROJECT_DIR$/lection13/lection13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lection4/lection4.iml" filepath="$PROJECT_DIR$/lection4/lection4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lection5/lection5.iml" filepath="$PROJECT_DIR$/lection5/lection5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lection6/lection6.iml" filepath="$PROJECT_DIR$/lection6/lection6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lection7/lection7.iml" filepath="$PROJECT_DIR$/lection7/lection7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lection8/lection8.iml" filepath="$PROJECT_DIR$/lection8/lection8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lection9/lection9.iml" filepath="$PROJECT_DIR$/lection9/lection9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sql_lection1/sql_lection1.iml" filepath="$PROJECT_DIR$/sql_lection1/sql_lection1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stroki/stroki.iml" filepath="$PROJECT_DIR$/stroki/stroki.iml" />
+    </modules>
+  </component>
+</project>
